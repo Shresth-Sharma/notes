@@ -1,0 +1,52 @@
+body{
+    margin:0;
+    background-color:black;
+    color:rgb(214, 96, 0);
+    font-size:6vw;
+}
+label{
+    margin-left:1vw;
+    margin-right:0.25vw;
+}
+select{
+    width:60vw;
+    height:7vw;
+    margin:0;
+    margin-right:2vw;
+    font-size:5vw;
+    margin-top:5vw;
+}
+#chlabel{
+    position:fixed;
+    top:53vw;
+    left:3.5vw;
+}
+#chdw{
+    position:fixed;
+    top:60vw;
+    left:5vw;
+    width:90vw;
+}
+#nblabel{
+    position:fixed;
+    top:53vw;
+    left:3.5vw;
+}
+#nbdw{
+    position:fixed;
+    top:60vw;
+    left:5vw;
+    width:90vw;
+}
+#ChNo{
+    margin-right:0vw;
+    width:40vw;
+}
+button{
+    width:40vw;
+    height:7vw;
+    margin:0vw;
+    margin-left:5vw;
+    font-size:5vw;
+    margin-top:5vw;
+}

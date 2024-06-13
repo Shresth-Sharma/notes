@@ -1,0 +1,47 @@
+body{
+    margin:0;
+    background-color:black;
+    color:rgb(214, 96, 0);
+    font-size:3vw;
+    margin-top:3vw;
+}
+label{
+    margin-left:1vw;
+    margin-right:0.25vw;
+}
+select{
+    width:10vw;
+    height:2.5vw;
+    margin:0;
+    margin-right:2vw;
+    font-size:2vw;
+}
+#chlabel{
+    position:fixed;
+    top:8vw;
+}
+#chdw{
+    position:fixed;
+    top:8.7vw;
+    left:13vw;
+    width:80vw;
+}
+#nblabel{
+    position:fixed;
+    top:8vw;
+}
+#nbdw{
+    position:fixed;
+    top:8.7vw;
+    left:14vw;
+    width:80vw;
+}
+#ChNo{
+    margin-right:0vw;
+}
+button{
+    width:7vw;
+    height:2.5vw;
+    margin:0vw;
+    font-size:2vw;
+}
