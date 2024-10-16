@@ -148,8 +148,9 @@ document.getElementById('fetch').addEventListener('click', function(){
     // else{
     //     window.open('pdfs/' + codelist[classval + '_' + subjectval + '_' + notebookval] + '.pdf', '_blank')
     // }
+    console.log(classval + '_' + subjectval + '_' + subjectval)
     if(chno.value == 'chapter'){
-        window.open('https://shresth-sharma.github.io/html/pdfview1.html?pdf='+codelist[classval + '_' + subjectval + '_' + subjectval], '_blank')
+        window.open('https://shresth-sharma.github.io/html/pdfview1.html?pdf='+codelist[classval + '_' + subjectval + '_' + chapterval], '_blank')
     }
     else{
         window.open('https://shresth-sharma.github.io/html/pdfview1.html?pdf='+codelist[classval + '_' + subjectval + '_' + notebookval], '_blank')
