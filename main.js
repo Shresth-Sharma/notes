@@ -1,8 +1,8 @@
 chapterlist = {
     '11':{
-        'Maths':['Ch-1 Sets Numbers & Intervals', 'Ch-2 Fundamentals of Algebra', 'Ch-3 Quadratic Equation', 'Ch-4 Logarithm', 'Ch-5 Sequence and Series', 'Ch-6 Trigonometric Ratios', 'Ch-7 Trigonometric Equations', 'Ch-8 Solution Of Triangles', 'Ch-9 Determinants', 'Ch-10 Straight Line'],
+        'Maths':['Ch-1 Sets Numbers & Intervals', 'Ch-2 Fundamentals of Algebra', 'Ch-3 Quadratic Equation', 'Ch-4 Logarithm', 'Ch-5 Sequence and Series', 'Ch-6 Trigonometric Ratios', 'Ch-7 Trigonometric Equations', 'Ch-8 Solution Of Triangles', 'Ch-9 Determinants', 'Ch-10 Straight Line', 'Ch-11 Circles'],
         'Physics':['Ch-1 Units&Dimension, Basic Maths and Vector', 'Ch-2 Kinematics-1D and Calculus', 'Ch-3 Kinematics-2D', 'Ch-4 Newton\'s Laws of motion & Friction', 'Ch-5 Work, Power and Energy', 'Ch-6 Circular Motion', 'Ch-7 System of Particles'],
-        'Chemistry':['Ch-1 Quantum Number', 'Ch-2 Periodic Table', 'Ch-3 Chemical Bonding', 'Ch-4 Mole Concept', 'Ch-5 Concentration Terms', 'Ch-6 Redox Reaction', 'Ch-7 Ideal Gas'],
+        'Chemistry':['Ch-1 Quantum Number', 'Ch-2 Periodic Table', 'Ch-3 Chemical Bonding', 'Ch-4 Mole Concept', 'Ch-5 Concentration Terms', 'Ch-6 Redox Reaction', 'Ch-7 Ideal Gas', 'Ch-8 Real Gas'],
         'Biology':['Ch-1 Cell The unit of Life'],
         'English':['Not Available!']
     }
@@ -24,6 +24,7 @@ codelist = {
     '11_Chemistry_Ch-5 Concentration Terms':'afj3k;90sf',
     '11_Chemistry_Ch-6 Redox Reaction':'akd;fj392',
     '11_Chemistry_Ch-7 Ideal Gas':'kflm3f3920',
+    '11_Chemistry_Ch-8 Real Gas':'akdfjis;fkd',
     '11_Chemistry_Notebook-1':'a;dfj;23j',
     '11_Chemistry_Notebook-2':'jk23jvijf9',
     '11_Chemistry_Notebook-3':'fkj38f0a9f',
@@ -37,6 +38,7 @@ codelist = {
     '11_Maths_Ch-8 Solution of Triangles':'dfl390dsf',
     '11_Maths_Ch-9 Determinants':'9f39jk;alfkj3',
     '11_Maths_Ch-10 Straight Line':'fk30s3lfj39',
+    '11_Maths_Ch-11 Circles':'jfeikdsnf',
     '11_Maths_Notebook-1':'ak;dfj;',
     '11_Maths_Notebook-2':'fk;3lkjfs',
     '11_Maths_Notebook-3':'903jsf3',
