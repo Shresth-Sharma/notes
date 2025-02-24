@@ -21,9 +21,26 @@ select{
     top:53vw;
     left:3.5vw;
 }
+#fllabel{
+    position:fixed;
+    top:71vw;
+    left:3.5vw;
+}
 #chdw{
     position:fixed;
-    top:60vw;
+    top:55vw;
+    left:5vw;
+    width:90vw;
+}
+#chdw1{
+    position:fixed;
+    top:55vw;
+    left:5vw;
+    width:90vw;
+}
+#fldw{
+    position:fixed;
+    top:73vw;
     left:5vw;
     width:90vw;
 }
@@ -34,7 +51,18 @@ select{
 }
 #nbdw{
     position:fixed;
-    top:60vw;
+    top:55vw;
+    left:5vw;
+    width:90vw;
+}
+#bklabel{
+    position:fixed;
+    top:53vw;
+    left:3.5vw;
+}
+#bkdw{
+    position:fixed;
+    top:55vw;
     left:5vw;
     width:90vw;
 }
